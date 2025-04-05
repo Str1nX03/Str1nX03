@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Dravin Sharma</h1>
 <h3 align="center">A Passionate Machine Learning Engineer crafting AI-driven solutions</h3>
 
