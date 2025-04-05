@@ -40,6 +40,7 @@
   <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&style=flat-square"/>
   <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white&style=flat-square"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Render-3C8DBC?logo=render&logoColor=white&style=flat-square"/>
 </p>
 
 ---
